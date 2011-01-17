@@ -1,0 +1,14 @@
+#summary Change log for AutoBGA
+#labels Featured,Phase-Implementation
+
+= Change log for AutoBGA =
+
+== v1.1, released January 16, 2011 ==
+  * IMPROVEMENT: Better cross and line removal in images.
+  * FEATURE: Added a second thresholding algorithm better-suited for cases with high-resolution and fine lines. This has fixed numerous cases of improper ball detection that were present in version 1.0.
+  * IMPROVEMENT: Smaller UI footprint owing to displacement of parameters from top of window to a separate tab.
+  * IMPROVEMENT: Automatically switches to results tab after computing.
+
+== v1.0, released September 13, 2010 ==
+  * Initial release.
+  * Works as advertised, but still some sub-optimal cases where cleaning-up of images is required.
