@@ -2,7 +2,7 @@
 #labels Featured,Phase-Implementation
 
 = Change log for AutoBGA =
-== v1.2, released February 28, 2011
+== v1.2, released February 28, 2011 ==
   * FEATURE: Silkscreen outline and courtyard drawing now implemented
   * FEATURE: Automatic rotation to have pin A1 in NW corner (IPC profile 1)
   * FEATURE: Can now click in detected pads image to toggle balls
